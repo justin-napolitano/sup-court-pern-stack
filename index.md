@@ -11,7 +11,7 @@
 # Setting Up a PERN Stack with GraphQL and Apollo: 
 
 
-Source Repo : ```git push --set-upstream origin post```
+Source Repo : ```https://github.com/justin-napolitano/sup-court-pern-stack.git```
 
 
 I've been playing with a knowledge graph recently. Most of the data modelling is complete... well at least the groundwork is done.  

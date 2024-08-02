@@ -1,11 +1,12 @@
-  1 +++
-  2 title =  "PERN Stack with GraphQl and Apollo"
-  3 description = "Build a Website Backend with Apollo and Graphql" 
-  4 tags = ['javascript', "pern","databases"]
-  5 images = ["images/feature-image.png"]
-  6 date = "2024-08-02T15:16:27-05:00"
-  7 categories = ["projects"]
-  8 series = ["Java"]
++++
+title =  "PERN Stack with GraphQl and Apollo"
+description = "Build a Website Backend with Apollo and Graphql" 
+tags = ['javascript', "pern","databases"]
+images = ["images/feature-image.png"]
+date = "2024-08-02T15:16:27-05:00"
+categories = ["projects"]
+series = ["Java"]
++++
 
 
 # Setting Up a PERN Stack with GraphQL and Apollo: 

@@ -22,6 +22,15 @@ seoSecondaryKeywords:
   - dataloader
   - real-time subscriptions
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.8
+topicFamilyNotes: >-
+  The post describes a backend project focused on building an API service using Node.js, Express,
+  PostgreSQL, GraphQL, and Apollo Server, emphasizing authentication, data loading, and real-time
+  features. While it covers backend engineering rather than automation of workflows directly, the
+  closest matching family is 'automation' because it references development tooling, backend
+  services, and deployment-related practices. None of the other topic families better fit backend
+  development and API architecture described here.
 ---
 
 # Technical Overview: sup-court-pern-stack
@@ -94,3 +103,4 @@ Tests are written with Mocha and Chai, focusing on user-related queries and muta
 This backend project demonstrates a practical approach to building a modern API service with GraphQL and the PERN stack. It balances security, performance, and real-time capabilities while maintaining modularity and clarity in code structure. The use of established libraries and design patterns facilitates maintainability and scalability.
 
 Future work includes frontend integration, expanded testing, and deployment automation to create a complete full-stack application.
+

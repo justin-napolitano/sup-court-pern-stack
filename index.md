@@ -1,12 +1,28 @@
 ---
-slug: "github-sup-court-pern-stack"
-title: "sup-court-pern-stack"
-repo: "justin-napolitano/sup-court-pern-stack"
-githubUrl: "https://github.com/justin-napolitano/sup-court-pern-stack"
-generatedAt: "2025-11-23T09:40:52.244138Z"
-source: "github-auto"
+slug: github-sup-court-pern-stack
+title: 'sup-court-pern-stack: GraphQL Backend with PERN Stack and Real-Time Features'
+repo: justin-napolitano/sup-court-pern-stack
+githubUrl: https://github.com/justin-napolitano/sup-court-pern-stack
+generatedAt: '2025-11-23T09:40:52.244138Z'
+source: github-auto
+summary: >-
+  Backend service using PostgreSQL, Express, React, Node.js, GraphQL, and Apollo Server with JWT
+  auth, DataLoader, and real-time subscriptions.
+tags:
+  - pern-stack
+  - graphql
+  - apollo-server
+  - postgresql
+  - authentication
+seoPrimaryKeyword: pern stack
+seoSecondaryKeywords:
+  - graphql
+  - apollo server
+  - jwt authentication
+  - dataloader
+  - real-time subscriptions
+seoOptimized: true
 ---
-
 
 # Technical Overview: sup-court-pern-stack
 

@@ -1,36 +1,50 @@
 ---
 slug: github-sup-court-pern-stack
-title: 'sup-court-pern-stack: GraphQL Backend with PERN Stack and Real-Time Features'
+title: Building a GraphQL API with the PERN Stack
 repo: justin-napolitano/sup-court-pern-stack
 githubUrl: https://github.com/justin-napolitano/sup-court-pern-stack
 generatedAt: '2025-11-23T09:40:52.244138Z'
 source: github-auto
 summary: >-
-  Backend service using PostgreSQL, Express, React, Node.js, GraphQL, and Apollo Server with JWT
-  auth, DataLoader, and real-time subscriptions.
+  Explore the implementation of a backend service using PostgreSQL, Express,
+  React, Node.js, and GraphQL for a flexible API interface.
 tags:
   - pern-stack
   - graphql
   - apollo-server
   - postgresql
   - authentication
-seoPrimaryKeyword: pern stack
-seoSecondaryKeywords:
-  - graphql
-  - apollo server
-  - jwt authentication
+  - postgres
+  - express
+  - react
+  - node.js
+  - sequelize
+  - jwt
   - dataloader
-  - real-time subscriptions
+  - mocha
+  - chai
+seoPrimaryKeyword: graphql api with pern stack
+seoSecondaryKeywords:
+  - backend service with graphql
+  - pern stack tutorial
+  - real-time data with graphql
+  - secure authentication with jwt
+  - data loading optimization
+  - modular graphql schema
+  - testing graphql api
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.8
 topicFamilyNotes: >-
-  The post describes a backend project focused on building an API service using Node.js, Express,
-  PostgreSQL, GraphQL, and Apollo Server, emphasizing authentication, data loading, and real-time
-  features. While it covers backend engineering rather than automation of workflows directly, the
-  closest matching family is 'automation' because it references development tooling, backend
-  services, and deployment-related practices. None of the other topic families better fit backend
-  development and API architecture described here.
+  The post describes a backend project focused on building an API service using
+  Node.js, Express, PostgreSQL, GraphQL, and Apollo Server, emphasizing
+  authentication, data loading, and real-time features. While it covers backend
+  engineering rather than automation of workflows directly, the closest matching
+  family is 'automation' because it references development tooling, backend
+  services, and deployment-related practices. None of the other topic families
+  better fit backend development and API architecture described here.
+kind: project
+id: github-sup-court-pern-stack
 ---
 
 # Technical Overview: sup-court-pern-stack

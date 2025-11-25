@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/sup-court-pern-stack
 generatedAt: '2025-11-24T21:36:29.475Z'
 source: github-auto
 summary: >-
-  Explore a backend application built with the PERN stack, featuring GraphQL API
-  management and user authentication.
+  Explore a backend application built with the PERN stack, featuring GraphQL API management and user
+  authentication.
 tags:
   - postgresql
   - express
@@ -29,8 +29,8 @@ seoSecondaryKeywords:
   - docker containerization
   - ci cd pipeline
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -170,4 +170,5 @@ npm run test:execute-test
 ---
 
 *Note: This project currently focuses on backend setup and API development. Frontend integration and deployment strategies are planned for future iterations.*
+
 

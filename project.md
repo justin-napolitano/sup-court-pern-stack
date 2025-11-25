@@ -1,20 +1,34 @@
 ---
 slug: github-sup-court-pern-stack
 id: github-sup-court-pern-stack
-title: sup-court-pern-stack
+title: PERN Stack Backend Application with GraphQL and Apollo
 repo: justin-napolitano/sup-court-pern-stack
 githubUrl: https://github.com/justin-napolitano/sup-court-pern-stack
 generatedAt: '2025-11-24T21:36:29.475Z'
 source: github-auto
 summary: >-
-  A backend application built using the PERN stack (PostgreSQL, Express, React,
-  Node.js) enhanced with GraphQL and Apollo Server for API management. This
-  project serves as a foundation for building a React client to interact with a
-  knowledge graph backend.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a backend application built with the PERN stack, featuring GraphQL API
+  management and user authentication.
+tags:
+  - postgresql
+  - express
+  - react
+  - node.js
+  - graphql
+  - sequelize
+  - jwt
+  - dataloader
+  - winston
+seoPrimaryKeyword: pern stack backend application
+seoSecondaryKeywords:
+  - graphql api management
+  - user authentication jwt
+  - sequelize postgresql
+  - real-time updates graphql
+  - environment-based configuration
+  - docker containerization
+  - ci cd pipeline
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
